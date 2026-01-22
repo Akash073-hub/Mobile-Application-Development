@@ -1,4 +1,4 @@
-📱 Mobile Application Development
+📱 Mobile Application Development : 
 
 This repository is created for learning and practicing Mobile Application Development concepts as part of academic coursework and hands-on experimentation. It contains examples, lab programs, and project files related to mobile app development.
 
