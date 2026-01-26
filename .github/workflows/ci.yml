@@ -1,7 +1,8 @@
-name: HTML + React Native CI
+name: HTML CI
 
 on:
   push:
+    branches: [ main, develop ]
   pull_request:
 
 jobs:
